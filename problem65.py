@@ -39,7 +39,7 @@ def sum_of_numerator(nth):
     prepre_numerator = previous_numerator
 
     if( k % 3 == 0):
-      # if k = 3n, previous continued fraction is 2k
+      # if k = 3n, previous continued fraction is 2(k/3)
       previous_continued_fraction = 2 * int(k/3)
     else: 
       # otherwise 1
