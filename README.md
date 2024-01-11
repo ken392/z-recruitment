@@ -1,5 +1,5 @@
 # Problem 65
-Thank you for giving me the oppotunity of challenge the tech test. 
+Thank you for giving me the oppotunity of challenging the tech test. 
 To be honest, it is the best tech test I've ever taken. I really enjoy (also struggled) the entire process
 
 ## Why I choose
