@@ -38,7 +38,7 @@ const sumOfNumerator = (nth) => {
     prePreNumerator = previousNumerator;
 
     if (k % 3 === 0) {
-      // if k = 3n, previous continued fraction is 2k
+      // if k = 3n, previous continued fraction is 2(k/3)
       continuedFraction = 2 * Number(k / 3);
     } else {
       // otherwise 1
