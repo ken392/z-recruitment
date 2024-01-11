@@ -1,3 +1,6 @@
+# Please take a look problem65.png in advance
+#
+#
 # The sequence of partial values of continued fractions for e
 # {2/1, 3/1, 8/3, 11/4, 19/7, 87/32....}
 # 
