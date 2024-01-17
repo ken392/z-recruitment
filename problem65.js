@@ -24,7 +24,7 @@ const initialNumerator = 2;
 const sumOfNumerator = (nth) => {
   // numerators[n]
   let currentNumerator = initialNumerator;
-  // continued_fractions[n-1]
+  // numerators[n-1]
   let previousNumerator = 1;
 
   // continued_fractions[n-1]
